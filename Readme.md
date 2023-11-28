@@ -1,2 +1,1 @@
-Simple project for study makefiles
-==================================
+STANCHIN
